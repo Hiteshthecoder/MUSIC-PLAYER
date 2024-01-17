@@ -59,7 +59,7 @@
 </div>
 <br>
 
-**Live Demo** : 
+**Live Demo** : https://hiteshthecoder.github.io/MUSIC-PLAYER/
 
 ## Author
 
